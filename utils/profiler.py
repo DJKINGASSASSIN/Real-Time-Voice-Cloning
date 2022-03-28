@@ -1,6 +1,6 @@
 from time import perf_counter as timer
 from collections import OrderedDict
-import numpy as np
+import  as np
 
 
 class Profiler:
